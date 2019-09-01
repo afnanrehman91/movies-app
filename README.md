@@ -1,2 +1,2 @@
 # movies-app
-This a movies app
+This is a movies app
